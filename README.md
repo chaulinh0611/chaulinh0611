@@ -1,7 +1,15 @@
-# 👋 Hello everyone
-I'm Nguyễn Châu Linh! I'm an Information Technology student (Japanese Language program) at **Danang University of Science and Technology**.  
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaulinh0611z@gmail.com) 
+# 
+<h1 align="center">
+  👋 Hi everyone
+</p>
+
+---
+
+<h3 align="center">👩‍💻 I'm Nguyễn Châu Linh!</h3>
+<p align="center">
+  I'm an <b>Information Technology student</b> (Japanese Language program) <br/>
+  at <b>Danang University of Science and Technology</b> 🎓  
+</p>
 
 ---
 
