@@ -3,8 +3,6 @@
   👋 Hi everyone
 </p>
 
----
-
 <h3 align="center">👩‍💻 I'm Nguyễn Châu Linh!</h3>
 <p align="center">
   I'm an <b>Information Technology student</b> (Japanese Language program) <br/>
